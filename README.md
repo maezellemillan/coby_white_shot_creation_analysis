@@ -3,4 +3,4 @@ In this project, I clean and process data scraped from the NBA stats website and
 
 **Objective**: Evaluate Coby White’s shot creation before and after the Zach Lavine trade. I analyze and visualize his usage, aggressiveness, and shot location stats relative to the rest of the league to ultimately assess his strengths and development areas.
 
-**Result**: Summary tables, bar charts, and line graphs that I expand on in this analysis: [Coby White's Shot Creation in the Post-Lavine Era](https://medium.com/@maezellemillan_87186/coby-whites-shot-creation-in-the-post-lavine-era-98fca6c22f16),
+**Result**: Summary tables, bar charts, and line graphs that I expand on in this analysis: [Coby White's Shot Creation in the Post-Lavine Era](https://medium.com/@maezellemillan_87186/coby-whites-shot-creation-in-the-post-lavine-era-98fca6c22f16).
